@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hi third change
+=======
+hi this is second change
+>>>>>>> master2
 hai abc
